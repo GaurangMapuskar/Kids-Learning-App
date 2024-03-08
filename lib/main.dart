@@ -4,13 +4,17 @@
 // Use of this source code is governed by an MIT-style
 // license that can be found in the LICENSE file or at
 // https://choosealicense.com/licenses/mit/
+// import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'app/constant.dart';
-import 'app/splash_screen.dart';
+import 'apps/constant.dart';
+import 'apps/splash_screen.dart';
 
-void main() {
+void main() async {
+  // WidgetsFlutterBinding.ensureInitialized();
+  // await Firebase.initializeApp();
+
   /// This code is for [disabling] the landscape orientation
   ///
   WidgetsFlutterBinding.ensureInitialized();

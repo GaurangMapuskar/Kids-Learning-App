@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040488828844",
+    "project_id": "kidstarterapp-53747",
+    "storage_bucket": "kidstarterapp-53747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040488828844:android:44d92503262efdf6c8b409",
+        "android_client_info": {
+          "package_name": "com.example.kid_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKY3-HE-ekCX5Y2eG4_EMMD8kXhD4MTaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
